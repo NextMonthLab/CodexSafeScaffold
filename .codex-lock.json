@@ -1,0 +1,19 @@
+{
+  "baseline": true,
+  "renderReady": true,
+  "viteBuild": "✓",
+  "tsStrict": "✓",
+  "scripts": ["start", "dev", "build"],
+  "packageLock": true,
+  "timestamp": "2025-07-08T19:21:23Z",
+  "repository": "NextMonthLab/CodexSafeScaffold",
+  "commit": "0755c446a3a6687749b81163c5a1b52c37457fdc",
+  "verification": {
+    "dependencies": "minimal",
+    "typescript": "ES2020_strict",
+    "express": "production_ready",
+    "vite": "optimized",
+    "structure": "monorepo_clean"
+  },
+  "codexSafe": true
+}
